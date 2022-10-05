@@ -149,7 +149,7 @@ main {
 }
 
 .dice {
-  position: absolute;
+  position:  absolute;
   left: 50%;
   top: 16.5rem;
   transform: translateX(-50%);
