@@ -8,6 +8,11 @@ Welcome to Pig Game, a classic dice game where the goal is to be the first playe
 - The player can choose to end their turn at any time and "bank" the points they have accumulated in that turn.
 - The first player to reach 100 points wins the game.
 
+  
+![screencapture-file-D-Desktop-JavaScript-Code-07-Pig-Game-final-index-html-2023-06-17-01_25_41](https://github.com/aboutmohsin/Dice-Game/assets/86055307/439e6709-6673-4cde-a535-5ffd7177aa2b)
+
+  
+
 ## Features
 - Random Dice Generator: The game uses a random dice generator to ensure that each roll is fair and unbiased.
 - Player Turn Management: The game manages player turns and ensures that the game rules are followed.
